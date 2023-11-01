@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh125&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh125" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh125" alt="utkarsh125" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/linkedutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/linkedutkarsh?logo=twitter&style=for-the-badge" alt="linkedutkarsh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
