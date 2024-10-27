@@ -20,9 +20,11 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 - [Gmail](mailto:utkarshpandeyforwork@gmail.com) 📧
 
 #### Skills 💻
-- **Languages:** TypeScript, SQL, Python, C++, Java
+- **Languages:** TypeScript, SQL, Python, C++, Java, JavaScript
 - **ML:** TensorFlow, scikit-learn, keras
-- **DevOps:** Linux, Git
+- **DevOps:** Linux, Git, Docker 
+- **Frameworks:** GSAP, anime.js, ReactJS, Next.js
+- **Monorepos:** Turborepo
 
 #### Education 🎓
 - [Bachelor's Degree] @ Chandigarh University (2021 - 2025)
