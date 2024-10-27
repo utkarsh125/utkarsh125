@@ -29,7 +29,7 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 
 #### Projects 🚀
 - [Allergen Based Diet Suggestion Tool](https://github.com/sudhanshugautam2911/arcane-project) - Get personalised diet plans that can help you avoid allergens.
-- [Easy Notes](https://github.com/utkarsh125/notetaking-app-mern) - A simple but efficient note-taking application.
+- [Care4Poor Webpage](https://github.com/utkarsh125/ngo-care4poor) - A NGO web application made for a client.
 - [Digital Hippo](https://github.com/utkarsh125/ecommerce-app) - A fully functional e-commerce website.
 
 #### Hackathon Participation 🏆
