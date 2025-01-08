@@ -25,10 +25,10 @@
 Hello there! 👋  
 I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm currently pursuing my undergrad from **Chandigarh University, Mohali**. I've worked on multiple projects related to web dev. and machine learning.
 
-#### Goals for 2024 🎯
-- Contribute to at least 3 open source projects 🤝
-- Learn performance optimisation 🚀
-- Learn AWS ☁️
+#### Goals for 2025 🎯
+- Get placed 🤝
+- ~~Learn performance optimisation 🚀~~
+- ~~Learn AWS ☁️~~
 - Overhaul my portfolio 🎨
 
 #### How to reach me? 📬
