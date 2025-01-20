@@ -53,4 +53,4 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 #### Hackathon Participation 🏆
 - [electrothon 6.0](https://electrothon.nith.ac.in/) @ NIT Hamirpur - _Won first prize for best use of **MongoDB**_
 
-For more information, you can check out [my website](https://utkarsh-pandey.vercel.app) 🌐
+For more information, you can check out [my website](https://utkarshpandey.in/) 🌐
