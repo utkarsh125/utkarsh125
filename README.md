@@ -46,9 +46,10 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 - [Bachelor's Degree] @ Chandigarh University (2021 - 2025)
 
 #### Projects 🚀
-- [Allergen Based Diet Suggestion Tool](https://github.com/sudhanshugautam2911/arcane-project) - Get personalised diet plans that can help you avoid allergens.
-- [Care4Poor Webpage](https://github.com/utkarsh125/ngo-careforpoor) - A NGO web application made for a client.
-- [Digital Hippo](https://github.com/utkarsh125/ecommerce-app) - A fully functional e-commerce website.
+- [(wip) MailDrop](https://github.com/utkarsh125/ai-mail-saas) - A mailing application with AI. 
+- [payments](https://github.com/sudhanshugautam2911/payments-app) - A payment application that just works.
+- [care4poor](https://github.com/utkarsh125/ngo-careforpoor) - A NGO web application made for a client.
+- [slothblog](https://github.com/utkarsh125/medium-serverless) - A serverless blog application
 
 #### Hackathon Participation 🏆
 - [electrothon 6.0](https://electrothon.nith.ac.in/) @ NIT Hamirpur - _Won first prize for best use of **MongoDB**_
