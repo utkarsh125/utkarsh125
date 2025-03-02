@@ -50,7 +50,7 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 - [payments](https://github.com/sudhanshugautam2911/payments-app) - A payment application that just works.
 - [care4poor](https://github.com/utkarsh125/ngo-careforpoor) - A NGO web application made for a client.
 - [slothblog](https://github.com/utkarsh125/medium-serverless) - A serverless blog application
-- [shell-sage] - A CLI based chat gateway that uses GeminiAPI
+- [shell-sage](https://github.com/utkarsh125/shell-sage) - A CLI based chat gateway that uses GeminiAPI
 
 #### Hackathon Participation 🏆
 - [electrothon 6.0](https://electrothon.nith.ac.in/) @ NIT Hamirpur - _Won first prize for best use of **MongoDB**_
