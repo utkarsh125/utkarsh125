@@ -47,7 +47,7 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 
 #### Projects 🚀
 - [(wip) MailDrop](https://github.com/utkarsh125/ai-mail-saas) - A mailing application with AI. 
-- [payments](https://github.com/sudhanshugautam2911/payments-app) - A payment application that just works.
+- [payments](https://github.com/utkarsh125/payments-app) - A payment application that just works.
 - [care4poor](https://github.com/utkarsh125/ngo-careforpoor) - A NGO web application made for a client.
 - [slothblog](https://github.com/utkarsh125/medium-serverless) - A serverless blog application
 - [shellmancer](https://github.com/utkarsh125/shellmancer) - A CLI based chat gateway that uses GeminiAPI
