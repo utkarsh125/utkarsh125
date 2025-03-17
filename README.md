@@ -46,7 +46,7 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 - [Bachelor's Degree] @ Chandigarh University (2021 - 2025)
 
 #### Projects 🚀
-- [(wip) GitIntel](https://github.com/utkarsh125/git-intel) - A tool for product managers to oversee the production of software
+- [GitIntel](https://github.com/utkarsh125/git-intel) - A tool for product managers to oversee the production of software
 - [automail-ai](https://github.com/utkarsh125/ai-mail-saas) - A mailing application with AI. 
 - [payments](https://github.com/utkarsh125/payments-app) - A payment application that just works.
 - [care4poor](https://github.com/utkarsh125/ngo-careforpoor) - A NGO web application made for a client.
