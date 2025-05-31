@@ -29,7 +29,7 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 - Get placed 🤝
 - ~~Learn performance optimisation 🚀~~
 - ~~Learn AWS EC2, S3, RDS, Lambda ☁️~~
-- ~~ Overhaul my portfolio 🎨 ~~
+- Overhaul my portfolio 🎨 (wip: PR Panel and Blog)
 - Learn Kubernetes in-depth
 
 #### How to reach me? 📬
