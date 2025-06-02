@@ -31,6 +31,7 @@ I'm **Utkarsh**, and I'm into **Web Development** and **Machine Learning**. I'm 
 - ~~Learn AWS EC2, S3, RDS, Lambda ☁️~~
 - Overhaul my portfolio 🎨 (wip: PR Panel and Blog)
 - Learn Kubernetes in-depth
+- Learn Android Development
 
 #### How to reach me? 📬
 - [LinkedIn](https://linkedin.com/in/utkarsh125) 💼
